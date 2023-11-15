@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prakharawasthi-ctrl/NewsTotua.git/static/css/main.073c9b0a.css",
+    "main.js": "/prakharawasthi-ctrl/NewsTotua.git/static/js/main.af0579e1.js",
+    "static/js/787.9a748b14.chunk.js": "/prakharawasthi-ctrl/NewsTotua.git/static/js/787.9a748b14.chunk.js",
+    "static/media/logo.svg": "/prakharawasthi-ctrl/NewsTotua.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prakharawasthi-ctrl/NewsTotua.git/index.html",
+    "main.073c9b0a.css.map": "/prakharawasthi-ctrl/NewsTotua.git/static/css/main.073c9b0a.css.map",
+    "main.af0579e1.js.map": "/prakharawasthi-ctrl/NewsTotua.git/static/js/main.af0579e1.js.map",
+    "787.9a748b14.chunk.js.map": "/prakharawasthi-ctrl/NewsTotua.git/static/js/787.9a748b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af0579e1.js"
+  ]
+}
